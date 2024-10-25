@@ -1,4 +1,5 @@
 # 🟰 Made changes to get this working on my windows work laptop 🟰
+## ❌ Works, but is currently too slow to be useful
 
 # Chat with PDF locally with Ollama demo 🚀
 
