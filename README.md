@@ -1,4 +1,4 @@
-Made changes to get this working on my windows work laptop
+# 🟰 Made changes to get this working on my windows work laptop 🟰
 
 # Chat with PDF locally with Ollama demo 🚀
 
